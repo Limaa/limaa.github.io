@@ -47,3 +47,4 @@ links:
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
+plugins: [jekyll-feed, jekyll-paginate]

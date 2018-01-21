@@ -1,7 +1,8 @@
 ---
-title:  "New macOS setup guide"
+title:  "Macbook setup guide"
 date:   2018-01-21 16:40:00 +0100
 ---
+
 This guide is intended to be used as reference when setting up a new macOS environment. Mainly used for development but general computer use is also taken into cosideration.
 
 ### References

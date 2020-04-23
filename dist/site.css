@@ -62,7 +62,7 @@ pre code { padding: 0; }
 code { padding: 2px 4px; font-size: 90%; border-radius: 4px; background-color: #f1f0ea; }
 hr { border: none; border-bottom: 1px dotted #303030; margin: 45px 0; }
 table { margin-bottom: 40px; width: 100%; }
-table tbody > tr:nth-child(odd) > td, table tbody > tr:nth-child(odd) > th { background-color: #f7f7f3; }
+table tbody>tr:nth-child(odd)>td, table tbody>tr:nth-child(odd)>th { background-color: #f7f7f3; }
 table th { padding: 0 10px 10px; text-align: left; }
 table td { padding: 10px; }
 table tr { border-bottom: 1px dotted #aeadad; }
@@ -102,7 +102,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
 .post-content a:hover { border-bottom: 1px dotted #f03838; padding: 0 0 2px; }
 .post-content:last-child { margin-bottom: 0; }
 .post-content .footnote { border-spacing: 0; margin-bottom: 0; }
-.post-content .footnote .label + td { width: 100%; }
+.post-content .footnote .label+td { width: 100%; }
 .post-content .gist tr { border-bottom: 0; }
 .post-footer { margin-top: 5px; }
 .post-tags, .share { color: #aeadad; font-size: 14px; }
@@ -162,7 +162,7 @@ table tr { border-bottom: 1px dotted #aeadad; }
  .site-header { padding-top: 40px; }
  .site-title { float: none; margin-bottom: 15px; }
  .site-title a { float: none; }
- .site-title + .button-square { margin-left: 0; }
+ .site-title+.button-square { margin-left: 0; }
  .site-nav-item { display: block; margin: 15px 0; }
  .post-header { margin-bottom: 20px; padding-bottom: 20px; }
  .post-header p { word-wrap: break-word; overflow-wrap: break-word; }
